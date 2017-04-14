@@ -1,5 +1,9 @@
 响应式布局：https://aoping.github.io/ResponsiveWeb/
 
+#更新
+使用gulp自动化构建：css js压缩合并 版本号等
+
+
 h5结构化标签
 
 媒体查询
